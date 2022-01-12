@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/NativePlugin/ThreadAffinity/publish
+/NativePlugin/ThreadAffinity/libs
+/NativePlugin/ThreadAffinity/obj
